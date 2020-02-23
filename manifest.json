@@ -10,5 +10,11 @@
             "48": "images/cog-32px.png",
             "128": "images/cog-64px.png"
         }
-    }
+    },
+    "icons": [
+        "16": "images/cog-16px.png",
+        "32": "images/cog-24px.png",
+        "48": "images/cog-32px.png",
+        "128": "images/cog-64px.png"
+    ]
 }
